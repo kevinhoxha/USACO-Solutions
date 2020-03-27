@@ -1,6 +1,3 @@
-# USACO-Solutions
-Currently in USACO Gold
-
 # December 2019 Bronze:
 Cow Gymnastics: 10/10
 
