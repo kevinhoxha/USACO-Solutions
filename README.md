@@ -3,11 +3,8 @@ Currently in USACO Gold
 
 # December 2019 Bronze:
 Cow Gymnastics: 10/10
-
 Where Am I?: 10/10
-
 Livestock Lineup: 10/10
-
 Total: 1000 (promoted)
 
 # December 2019 Silver:
