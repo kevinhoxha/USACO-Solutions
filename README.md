@@ -34,7 +34,7 @@ Clock Tree: 15/15
 
 Total: 767 (promoted)
 
-# US Open 2020 Gold
+# US Open 2020 Gold:
 Haircut: 13/13
 
 Favorite Colors: 1/10
