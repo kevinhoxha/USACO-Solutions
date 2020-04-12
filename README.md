@@ -33,3 +33,12 @@ Triangles: 5/10
 Clock Tree: 15/15
 
 Total: 767 (promoted)
+
+# US Open 2020 Gold
+Haircut: 13/13
+
+Favorite Colors: 1/10
+
+Exercise: 1/10
+
+Total: 400
